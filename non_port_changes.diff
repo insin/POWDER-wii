@@ -1,8 +1,8 @@
-diff --git creature.cpp creature.cpp
-index ed7ef8c..5e72a74 100644
---- creature.cpp
-+++ creature.cpp
-@@ -6288,6 +6288,8 @@ MOB::pageCharacterDump(bool ondeath, bool didwin, int truetime)
+diff --git a/creature.cpp b/creature.cpp
+index 71f7450..9a4fcd8 100755
+--- a/creature.cpp
++++ b/creature.cpp
+@@ -6300,6 +6300,8 @@ MOB::pageCharacterDump(bool ondeath, bool didwin, int truetime)
  	gfx_pager_addtext("iPOWDER Version");
  #elif defined(LINUX)
  	gfx_pager_addtext("Linux Version");

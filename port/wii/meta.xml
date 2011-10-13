@@ -2,8 +2,8 @@
 <app version="1">
   <name>POWDER</name>
   <coder>Jeff Lait  Port: insin</coder>
-  <version>115-1</version>
-  <release_date>20101214</release_date>
+  <version>116-1</version>
+  <release_date>20110013</release_date>
   <short_description>Roguelike</short_description>
   <long_description>Descend into the depths of the dungeon until you reach the foul daemon known as "He who the author cannot spell consistently", or, Baezl'bub.
 

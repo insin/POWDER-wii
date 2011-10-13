@@ -25,7 +25,7 @@ All other changes made while creating the Wii build are provided in
 Building
 ========
 
-Grab the POWDER source (version 115 at the time of typing), copy the Wii
+Grab the POWDER source (version 116 at the time of typing), copy the Wii
 port directory over and apply the patch.
 
 Support Files
